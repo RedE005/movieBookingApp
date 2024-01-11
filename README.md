@@ -1,24 +1,6 @@
 # MovieTheater Club Application - Reel Rover 
 
-## TEAM NAME - STRAWHATS
 
-| TEAM | SJSU ID |
-| --- | --- |
-| Shiva Ram Reddy Bethi |  017408482 |
-| Jatin Bhandari | 017425447 |
-| Charles Fathima Bhumpala | 016773055 |
-| Sohan Leburu |  017408768 |
-
-
-
-## Team Members and Contribution gist:
-
-| TEAM | Contribution |
-| --- | --- |
-| Shiva Ram Reddy Bethi |  Scrum Master, Front end and Backend API implementation - Designed and configured MongoDB models, cinemaController logic, worked on cinema route module,worked on Admin Route for client logic, Designed and worked on Home, Register, Purchase front-end client webpages, developed Navbar, TheatreListByMovie, CinemaLists, DateSelector React Components, loadbalancer |
-| Jatin Bhandari | Front end and Backend API implementation -  authController & theaterController logic, worked on auth route & theater module, Designed and worked on Tickets, Analytics, Login front-end client webpages, developed MovieLists, NowShowing, ShowtimeDetails, Showtimes React Components, AWS deployment and Autoscaling in EC2 instances |
-| Charles Fathima Bhumpala | Front end and Backend API implementation - movieController logic, worked on movie route module, Developed Location Context, Designed and worked on Movie, Showtime, Cinema front-end client webpages, developed Theater, TheaterListsByCinema, UpcomingMovies React Components |
-| Sohan Leburu | Front end and Backend API implementation - Configured showtime component for admin users, worked on showtime route module, Developed Auth Context, Designed and worked on User front-end client webpages, developed SelectedMovie, Seat configurations, ScheduleTable, Loading React Components, Black box Testing |
 
 ## Tech stack
 REACTJS, TAILWIND CSS, VITE, NODEJS, EXPRESSJS, MONGODB
